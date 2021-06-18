@@ -5,7 +5,8 @@
   <h3>Tudo que foi passado aqui inclusive o exemplo de currículo foi considerado e dado dicas durante o <a href="https://www.youtube.com/watch?v=hL9gyafKvAI&t=2867s">Hcode Café ☕ - #91</a>. Visite está live para entender melhor este repositório. E qualquer dúvida sobre os assuntos tratados na live ou se desejar navegar melhor pelos assuntos tratatos, visite o link abaixo:</h3>
   <h3><a href="https://github.com/hcode-cafe/central-indices/blob/main/meses/readme.JUNHO.md#segunda-live-do-m%C3%AAs">Link do Índice da live #91 do mês de Junho</a></h3>
 </div>
-
+<br>
+<br>
 <div align="center">
     <p align="center">
     <a href="https://go.hcode.com.br/RsdXu3">
@@ -26,5 +27,5 @@
     <a href="mailto:suporte@hcode.com.br">
         <img alt="Gmail" src="https://img.shields.io/static/v1?style=flat-square&logo=gmail&label=Gmail&message=suporte@hcode.com.br&color=f0743e">
     </a>
-  </p>
+    </p>
 </div>
